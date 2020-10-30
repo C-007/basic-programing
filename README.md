@@ -1,0 +1,2 @@
+# basic-programing
+some exercises
